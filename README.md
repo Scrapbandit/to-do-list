@@ -1,2 +1,3 @@
-# to-do-list
-1.9
+# Practicing Jquery
+task <1.9>
+Converting vanilla Javascript to JQuery
