@@ -34,6 +34,7 @@ function newItem(){
  //2. Crossing out an item from the list of items:
 
 
+<<<<<<< HEAD
    function crossOut() {
  		li.toggleClass("strike");
  	}
@@ -67,6 +68,9 @@ function newItem(){
 
 
 /*function newItem(){
+=======
+function newItem(){ 
+>>>>>>> 034de17301aad86bd2a6bcac6881a5e47e65e2a4
 
 //javascript
      // let li = document.createElement("li");
